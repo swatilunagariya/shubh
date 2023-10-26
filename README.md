@@ -1,3 +1,2 @@
 # shubh
-its my second repository
-hii!
+its my second repository\nhii!
